@@ -1,0 +1,15 @@
+C:\Users\vchup\source\repos\findingCommonDivisors\findingCommonDivisors\bin\Debug\net6.0\findingCommonDivisors.exe
+C:\Users\vchup\source\repos\findingCommonDivisors\findingCommonDivisors\bin\Debug\net6.0\findingCommonDivisors.deps.json
+C:\Users\vchup\source\repos\findingCommonDivisors\findingCommonDivisors\bin\Debug\net6.0\findingCommonDivisors.runtimeconfig.json
+C:\Users\vchup\source\repos\findingCommonDivisors\findingCommonDivisors\bin\Debug\net6.0\findingCommonDivisors.dll
+C:\Users\vchup\source\repos\findingCommonDivisors\findingCommonDivisors\bin\Debug\net6.0\findingCommonDivisors.pdb
+C:\Users\vchup\source\repos\findingCommonDivisors\findingCommonDivisors\obj\Debug\net6.0\findingCommonDivisors.csproj.AssemblyReference.cache
+C:\Users\vchup\source\repos\findingCommonDivisors\findingCommonDivisors\obj\Debug\net6.0\findingCommonDivisors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vchup\source\repos\findingCommonDivisors\findingCommonDivisors\obj\Debug\net6.0\findingCommonDivisors.AssemblyInfoInputs.cache
+C:\Users\vchup\source\repos\findingCommonDivisors\findingCommonDivisors\obj\Debug\net6.0\findingCommonDivisors.AssemblyInfo.cs
+C:\Users\vchup\source\repos\findingCommonDivisors\findingCommonDivisors\obj\Debug\net6.0\findingCommonDivisors.csproj.CoreCompileInputs.cache
+C:\Users\vchup\source\repos\findingCommonDivisors\findingCommonDivisors\obj\Debug\net6.0\findingCommonDivisors.dll
+C:\Users\vchup\source\repos\findingCommonDivisors\findingCommonDivisors\obj\Debug\net6.0\refint\findingCommonDivisors.dll
+C:\Users\vchup\source\repos\findingCommonDivisors\findingCommonDivisors\obj\Debug\net6.0\findingCommonDivisors.pdb
+C:\Users\vchup\source\repos\findingCommonDivisors\findingCommonDivisors\obj\Debug\net6.0\findingCommonDivisors.genruntimeconfig.cache
+C:\Users\vchup\source\repos\findingCommonDivisors\findingCommonDivisors\obj\Debug\net6.0\ref\findingCommonDivisors.dll
